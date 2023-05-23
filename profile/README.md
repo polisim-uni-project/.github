@@ -4,3 +4,6 @@
 
 ### 🌐 Website:
 https://polisim-website.vercel.app/
+
+### 📝 Kanban Board:
+[click here](https://github.com/orgs/polisim-uni-project/projects/1/views/1)
