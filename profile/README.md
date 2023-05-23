@@ -19,3 +19,6 @@ You can find the Kanban board [here](https://github.com/orgs/polisim-uni-project
 - if someone starts  a story it moves to **in progress**
 - in the **in review** step an entry inside the Wiki page is added which contains a short review how it was done and what problems occured, additionally another member reviews the story
 - finally, if the story is finished and a review has been written it can be moved into **done**
+
+#### Reviews:
+You can find our Scrum reviews [here](https://github.com/polisim-uni-project/polisim-website/wiki/%F0%9F%8F%83%F0%9F%8F%BB-Reviews).
