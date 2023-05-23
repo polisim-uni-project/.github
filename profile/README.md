@@ -15,7 +15,7 @@ You can find the Kanban board [here](https://github.com/orgs/polisim-uni-project
 #### Scrum process:
 - new stories are put into **backlog**
 - every new sprint selected cards a being moved from *backlog* to  **todo**
-- at latest then a priority tag, assignee and deadline for the story is added: "{story description}, until {deadline}"
+- at latest then a priority tag, deadline tag, type tag and assignee is added to the story card
 - if someone starts  a story it moves to **in progress**
 - in the **in review** step an entry inside the Wiki page is added which contains a short review how it was done and what problems occured, additionally another member reviews the story
 - finally, if the story is finished and a review has been written it can be moved into **done**
