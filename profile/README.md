@@ -3,12 +3,12 @@
 
 ---
 
-### 🌐 Website:
+## 🌐 Website:
 You can find the website here: https://polisim-website.vercel.app/
 
 ---
 
-### 🏃 Scrum:
+## 🏃 Scrum:
 #### Kanban Board
 You can find the Kanban board [here](https://github.com/orgs/polisim-uni-project/projects/2).
 
