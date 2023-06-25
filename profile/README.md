@@ -4,7 +4,7 @@
 ---
 
 ## 🌐 Website:
-You can find the website here: https://polisim-website.vercel.app/
+You can find the website here: https://polisim.vercel.app/
 
 ---
 
